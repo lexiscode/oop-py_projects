@@ -1,5 +1,5 @@
 DOCUMENTATION:
-https://docs.python.org/3/library/turtle.html#compound-shapes
+https://docs.python.org/3/library/turtle.html
 
 TURTULE COLORS: 
 https://cs111.wellesley.edu/reference/colors

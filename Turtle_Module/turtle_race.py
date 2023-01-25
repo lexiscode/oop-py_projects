@@ -43,3 +43,8 @@ while is_race_on:
         turtle.forward(rand_distance)
 
 screen.exitonclick()
+
+
+
+#DOWNLOAD/PLAY THE GAME ON YOUR WINDOWS PC 
+# https://1drv.ms/u/s!AqiJaR7AblSkiQlmS9wH3IEWqw-q
